@@ -1,5 +1,5 @@
 In case any error is coming
-sudo apt-get install python-pip
+apt-get install python-pip
 
 pip install cassandra-driver
 
