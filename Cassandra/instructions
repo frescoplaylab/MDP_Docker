@@ -1,0 +1,8 @@
+In case any error is coming
+sudo apt-get install python-pip
+
+pip install cassandra-driver
+
+export CQLSH_NO_BUNDLED=true
+
+
